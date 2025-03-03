@@ -25,7 +25,7 @@ This tutorial outlines the creation and handling of tickets.<br />
 <h2>Steps</h2>
 
 <p>
-<img src="https://github.com/user-attachments/assets/4b385489-2bf1-4b8f-84e6-a8c8fb13edb5"</p>
+<img src="https://github.com/user-attachments/assets/704e1d7e-dccb-4491-897a-f3f716f493f6"</p>
 
 <p>Here we will create a ticket as an end-user.</p>
 <br />
