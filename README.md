@@ -42,7 +42,11 @@ This tutorial outlines the creation and handling of tickets.<br />
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/3f435823-4dd1-471f-958f-2af18c49b529"</p>
 
+<p>The ticket has been received from Karen.</p>
+<br />
 
 
 
