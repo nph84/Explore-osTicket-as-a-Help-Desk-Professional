@@ -35,7 +35,7 @@ This tutorial outlines the creation and handling of tickets.<br />
 <p>
 <img src="https://github.com/user-attachments/assets/c1130a3d-c852-4ecf-9e31-332ac3722fc1"</p>
 
-<p>Example end-user ticket. This ticket issue doesn't 100% correctly match the problem that better represents the help desk environment where end-users may not always accurately categorize the problem they are dealing with.</p>
+<p>Example end-user ticket. This ticket issue doesn't match the problem 100% correctly. This better represents the help desk environment where end-users may not always accurately categorize the problem they are dealing with.</p>
 <br />
 
 
