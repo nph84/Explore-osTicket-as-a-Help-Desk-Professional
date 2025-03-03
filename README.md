@@ -50,10 +50,18 @@ This tutorial outlines the creation and handling of tickets.<br />
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/c9d5d101-505e-48bf-8fe3-22bfd7d81634"</p>
+
+<p>Observing the ticket status, priority and SLA compared to the ticket description. Changing the ticket to Sev-A.</p>
+<br />
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/37801088-2131-4211-9de1-67b37d4bf89d"</p>
 
-
+<p>Help Desk agent history of changes.</p>
+<br />
 
 
 
