@@ -73,6 +73,11 @@ This tutorial outlines the creation and handling of tickets.<br />
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/04258eeb-e18b-4e6e-941b-ffa74cb34ec8"</p>
+
+<p>Resolved and closed the ticket as a member of the online banking team.</p>
+<br />
 
 
 
