@@ -60,12 +60,16 @@ This tutorial outlines the creation and handling of tickets.<br />
 <p>
 <img src="https://github.com/user-attachments/assets/37801088-2131-4211-9de1-67b37d4bf89d"</p>
 
-<p>Help Desk agent history of changes.</p>
+<p>Help desk agent history of changes.</p>
 <br />
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/dfad6b17-90c7-4f6e-a380-3cf3ed6dc322"</p>
 
+<p>Working the ticket as the appropriate help desk agent.</p>
+<br />
 
 
 
