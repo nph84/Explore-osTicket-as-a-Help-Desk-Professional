@@ -25,58 +25,57 @@ This tutorial outlines the creation and handling of tickets.<br />
 <h2>Steps</h2>
 
 <p>
-<img src="https://github.com/user-attachments/assets/704e1d7e-dccb-4491-897a-f3f716f493f6"</p>
-
-<p>Here we will create a ticket as an end-user.</p>
+Here, we will create a ticket as an end-user. <br /> <br />
+<img src="https://github.com/user-attachments/assets/704e1d7e-dccb-4491-897a-f3f716f493f6" height="80%" width="80%"/>
+</p>
 <br />
 
 
 
 <p>
-<img src="https://github.com/user-attachments/assets/c1130a3d-c852-4ecf-9e31-332ac3722fc1"</p>
-<br /> 
-<img src="https://github.com/user-attachments/assets/1c909963-eb8a-4978-b059-12f2b0d8a713"</p>
-
-<p>Example end-user ticket. This ticket issue doesn't match the problem 100% correctly. This better represents the help desk environment where end-users may not always accurately categorize the problem they are dealing with.</p>
+<p>Example end-user ticket. This ticket issue doesn't match the problem 100% correctly. This better represents the help desk environment where end-users may not always accurately categorize the problem they are dealing with. <br /> <br />
+<img src="https://github.com/user-attachments/assets/c1130a3d-c852-4ecf-9e31-332ac3722fc1" height="80%" width="80%"/>
+<img src="https://github.com/user-attachments/assets/1c909963-eb8a-4978-b059-12f2b0d8a713" height="80%" width="80%"/>
+</p>
 <br />
 
 
 
 <p>
-<img src="https://github.com/user-attachments/assets/3f435823-4dd1-471f-958f-2af18c49b529"</p>
-
-<p>The ticket has been received from Karen.</p>
+The ticket has been received from Karen. <br /> <br />
+<img src="https://github.com/user-attachments/assets/3f435823-4dd1-471f-958f-2af18c49b529" height="80%" width="80%"/>
+</p>
 <br />
 
 
 
 <p>
-<img src="https://github.com/user-attachments/assets/c9d5d101-505e-48bf-8fe3-22bfd7d81634"</p>
-
-<p>Observing the ticket status, priority and SLA compared to the ticket description. Changing the ticket to Sev-A.</p>
+Observing the ticket status, priority and SLA compared to the ticket description. Changing the ticket to Sev-A. <br /> <br />
+<img src="https://github.com/user-attachments/assets/c9d5d101-505e-48bf-8fe3-22bfd7d81634" height="80%" width="80%"/>
+</p>
 <br />
 
 
 <p>
-<img src="https://github.com/user-attachments/assets/37801088-2131-4211-9de1-67b37d4bf89d"</p>
-
-<p>Help desk agent history of changes.</p>
-<br />
-
-
-
-<p>
-<img src="https://github.com/user-attachments/assets/dfad6b17-90c7-4f6e-a380-3cf3ed6dc322"</p>
-
-<p>Working the ticket as the appropriate help desk agent.</p>
+Help desk agent history of changes. <br /> <br />
+<img src="https://github.com/user-attachments/assets/37801088-2131-4211-9de1-67b37d4bf89d" height="80%" width="80%"/>
+</p>
 <br />
 
 
 
 <p>
-<img src="https://github.com/user-attachments/assets/04258eeb-e18b-4e6e-941b-ffa74cb34ec8"</p>
+Working the ticket as the appropriate help desk agent. <br /> <br />
+<img src="https://github.com/user-attachments/assets/dfad6b17-90c7-4f6e-a380-3cf3ed6dc322" height="80%" width="80%"/>
+</p>
+<br />
 
-<p>Resolved and closed the ticket as a member of the online banking team.</p>
+
+
+<p>
+Resolved and closed the ticket as a member of the online banking team. <br /> <br />
+<img src="https://github.com/user-attachments/assets/04258eeb-e18b-4e6e-941b-ffa74cb34ec8" height="80%" width="80%"/>
+</p>
 <br />
 
 
